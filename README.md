@@ -30,12 +30,3 @@ Users can search movies, view details, switch themes, and explore results with p
 - **Vercel** (Deployment)
 
 ---
-
-## 📸 Screenshots
-
-> _(Optional)_  
-Add screenshots by creating a folder like `screenshots/` and then:
-
-```md
-![Home](screenshots/home.png)
-![Movie Details](screenshots/details.png)
