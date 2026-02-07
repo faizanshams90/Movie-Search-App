@@ -28,5 +28,3 @@ Users can search movies, view details, switch themes, and explore results with p
 - **JavaScript (ES6+)**
 - **OMDb API**
 - **Vercel** (Deployment)
-
----
